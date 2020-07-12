@@ -1,2 +1,2 @@
 # Logistic-Regression-Training-With-Gradient-Descent-Implementation
-implementation of logistic regression learned using XXX used to recognize prime numbers from complex numbers on the MNIST set
+Implementation of logistic regression trained with SGD, used to recognize prime numbers from complex numbers on the MNIST dataset.
